@@ -1,2 +1,2 @@
 # AlogrithmsC
-collections of algorithms
+Collections of algorithms
