@@ -13,3 +13,10 @@ function isPalindrime(str) {
 = true
 > isPlaindrome('toyota')
 = false
+
+
+function checkPalindrome(str) {
+return str == str.split('').reverse().join('');
+}
+
+Time complexity: O(n).
