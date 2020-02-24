@@ -1,4 +1,4 @@
-Second largest number in an array
+//Second largest number in an array
 
 <?php
 $array = array('200', '12', '69', '250', '50', '500');
